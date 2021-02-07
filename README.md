@@ -1,8 +1,18 @@
-### Hi there 👋
+### 👋 WELCOME
 
 <!--
-**brunorcorrea/brunorcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brunorcorrea/brunorcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![](https://komarev.com/ghpvc/?Bruno-R-Correa&color=blue&style=plastic)
 
+<h1> Bruno Ricardo Corrêa</h1> <div> <a href="https://www.linkedin.com/in/bruno-ricardo-corrêa-67b0351b1"> Linkedin </a>  | <a href="https://github.com/Bruno-R-Correa"> Git Hub Profile </a>  | <a href="https://github.com/Bruno-R-Correa?tab=repositories"> Git Hub Repository </a> </div> <br> <ul> <li> Tenho 16 anos; </li> <li> De Iracemápolis para o mundo; </li> <li> Cursando atualmente o 2º ano de Informática e Ensino Médio no Colégio Técnico de Limeira (COTIL); </li> <li> Busco aprender sobre as linguagens de programação em ascensão; </li> <li> Desejo aprender coisas novas, ganhar experiência e crescer profissionalmente; </li> <li> Vontade de aprender e de criar; </li> <li> Sem experiência profissional até o momento; </li> <li> Procuro encontrar uma empresa no ramo de T.I que possua um programa de estágio pelo qual eu possa me desenvolver como pessoa, aluno e como um profissional. </li> </ul>
+
+<h2>:clipboard: GitHub Card</h2>
+<a href="https://github.com/Bruno-R-Correa">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-R-Correa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</a>
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
