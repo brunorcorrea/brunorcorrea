@@ -6,7 +6,7 @@
 
 <h2>:clipboard: GitHub Card</h2>
 <a href="https://github.com/Bruno-R-Correa">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-R-Correa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunorcorrea&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </a>
 
 
