@@ -16,9 +16,9 @@
 * Sem experiência profissional até o momento
 
 ## :clipboard: GitHub Cards
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorcorrea&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorcorrea&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorcorrea&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorcorrea&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
