@@ -1,16 +1,14 @@
 <!--
 **brunorcorrea/brunorcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![](https://komarev.com/ghpvc/?username=brunorcorrea&color=blue&style=plastic)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorcorrea)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://hit.yhype.me/github/profile?user_id=60991787)
 
 <h1> Bruno Ricardo Corrêa</h1> <div> <a href="https://www.linkedin.com/in/bruno-ricardo-corrêa-67b0351b1"> Linkedin </a>  | <a href="https://github.com/Bruno-R-Correa"> Git Hub Profile </a>  | <a href="https://github.com/Bruno-R-Correa?tab=repositories"> Git Hub Repositories </a> </div> <br> <ul> <li> Tenho 16 anos; </li> <li> De Iracemápolis para o mundo; </li> <li> Cursando atualmente o 2º ano de Informática e Ensino Médio no Colégio Técnico de Limeira (COTIL); </li> <li> Busco aprender sobre as linguagens de programação em ascensão; </li> <li> Desejo aprender coisas novas, ganhar experiência e crescer profissionalmente; </li> <li> Vontade de aprender e de criar; </li> <li> Sem experiência profissional até o momento; </li></ul>
 
-<h2>:clipboard: GitHub Card</h2>
-<a href="https://github.com/Bruno-R-Correa">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunorcorrea&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-</a>
+<h2>:clipboard: GitHub Cards</h2>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorcorrea&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorcorrea&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
