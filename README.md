@@ -21,9 +21,26 @@
 * Sem experiência profissional até o momento
 
 ## 📊 GitHub Stats
+
+<br>
+
+<p>
+  <a href="https://github.com/thiagotandrade/brunorcorrea?">
+    <img src="https://badges.pufler.dev/repos/brunorcorrea?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
+  </a>
+
+  ![](https://komarev.com/ghpvc/?username=brunorcorrea&color=blue&style=plastic)
+
+</p>
+
+<br>
+
+<p align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorcorrea&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorcorrea&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=brunorcorrea&color=blue&style=plastic)
+</p>
+
 ![](https://hit.yhype.me/github/profile?user_id=60991787)
