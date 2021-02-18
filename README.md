@@ -1,5 +1,8 @@
 # Bruno Ricardo Corrêa
-[[Linkedin](https://www.linkedin.com/in/bruno-ricardo-corrêa-67b0351b1)](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+
+<a href="https://www.linkedin.com/in/bruno-ricardo-corrêa-67b0351b1" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
 
 <br/> 
 
