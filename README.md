@@ -13,7 +13,7 @@
 
 <br/> 
 
-* Tenho 16 anos
+* Tenho 17 anos
 * De Iracemápolis para o mundo
 * Cursando atualmente o 3º ano de Informática e Ensino Médio no Colégio Técnico de Limeira (COTIL)
 * Busco aprender sobre as linguagens de programação em ascensão
