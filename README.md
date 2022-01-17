@@ -14,8 +14,7 @@
 <br/> 
 
 * Tenho 17 anos
-* De Iracemápolis para o mundo
-* Cursando atualmente o 3º ano de Informática e Ensino Médio no Colégio Técnico de Limeira (COTIL)
+* Formado em Técnico de Informática e Ensino Médio pelo Colégio Técnico de Limeira (COTIL - UNICAMP)
 * Busco aprender sobre as linguagens de programação em ascensão
 * Desejo aprender coisas novas, ganhar experiência e crescer profissionalmente
 * Sem experiência profissional até o momento
