@@ -15,9 +15,9 @@
 
 * Tenho 17 anos
 * Formado em Técnico de Informática e Ensino Médio pelo Colégio Técnico de Limeira (COTIL - UNICAMP)
-* Busco aprender sobre as linguagens de programação em ascensão
-* Desejo aprender coisas novas, ganhar experiência e crescer profissionalmente
-* Sem experiência profissional até o momento
+* Cursando atualmente Análise e Desenvolvimento de Sistemas na UNICAMP
+* Aprendendo GoLang e React
+* Estagiário na Sensedia
 
 ## 📊 GitHub Stats
 
