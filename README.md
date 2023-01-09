@@ -24,7 +24,7 @@
 <br>
 
 <p>
-  <a href="https://github.com/thiagotandrade/brunorcorrea?">
+  <a href="https://github.com/brunorcorrea">
     <img src="https://badges.pufler.dev/repos/brunorcorrea?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
   </a>
 
