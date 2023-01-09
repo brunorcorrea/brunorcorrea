@@ -20,8 +20,6 @@
 
 ## 📊 GitHub Stats
 
-<br>
-
 <p align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorcorrea&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
