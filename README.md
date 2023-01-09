@@ -23,17 +23,6 @@
 
 <br>
 
-<p>
-  <a href="https://github.com/brunorcorrea">
-    <img src="https://badges.pufler.dev/repos/brunorcorrea?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
-  </a>
-
-  ![](https://komarev.com/ghpvc/?username=brunorcorrea&color=blue&style=plastic)
-
-</p>
-
-<br>
-
 <p align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorcorrea&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
