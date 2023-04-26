@@ -16,7 +16,7 @@
 * Formado em Técnico de Informática e Ensino Médio pelo Colégio Técnico de Limeira (COTIL - UNICAMP)
 * Cursando atualmente Análise e Desenvolvimento de Sistemas na UNICAMP
 * Aprendendo Java e React
-* Estagiário na Sensedia
+* Desenvolvedor Júnior na Sensedia
 
 ## 📊 GitHub Stats
 
