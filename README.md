@@ -12,11 +12,11 @@
 
 <br/> 
 
-* Tenho 18 anos
+* 19 anos
 * Formado em Técnico de Informática e Ensino Médio pelo Colégio Técnico de Limeira (COTIL - UNICAMP)
 * Cursando atualmente Análise e Desenvolvimento de Sistemas na UNICAMP
 * Aprendendo Java e React
-* Desenvolvedor Júnior na Sensedia
+* Desenvolvedor Backend Júnior na Sensedia
 
 ## 📊 GitHub Stats
 
