@@ -12,8 +12,9 @@
 
 <br/> 
 
-* Formado em Técnico de Informática e Ensino Médio pelo Colégio Técnico de Limeira (COTIL - UNICAMP)
-* Cursando atualmente Análise e Desenvolvimento de Sistemas na UNICAMP
+* Técnico de Informática e Ensino Médio - COTIL | UNICAMP
+* Graduado em Análise e Desenvolvimento de Sistemas - UNICAMP
+* Mestrando em Tecnologia - UNICAMP
 * Aprendendo Java, Python e React
 * Desenvolvedor Backend na Sensedia
 
